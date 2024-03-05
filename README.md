@@ -1,1 +1,1 @@
-Code files related my MSCS module python code 
+Code files related to my MSCS modules
